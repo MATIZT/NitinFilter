@@ -41,7 +41,7 @@ class script(object):
 
 <b>᚜ ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs ᚛</b>
 
-➢ <a href='https://telegra.ph/file/def284d991edabc59600a.jpg'>ғᴀᴍᴘᴀʏ</a>
+➢ <a href='https://telegra.ph/file/a3c232ff0d623786a7186.jpg'>G Pay</a>
 
 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ғᴏʀ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴛʜᴇ ᴘᴀʏᴍᴇɴᴛ ɪɴғᴏ
 
@@ -332,7 +332,7 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 
 ☆ ᴄᴏɴᴛɪɴᴜᴇ ᴛʜɪs ᴍᴇᴛʜᴏᴅ ᴛᴏ ɢᴇᴛᴛɪɴɢ ʏᴏᴜ ꜰɪʟᴇ
 
- ᴘᴏᴡᴇʀᴇᴅ ʙʏ Matiz Techz ʙᴏᴛs
+ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @Matiz_Techz
 """
 
     NORSLTS = """
@@ -409,7 +409,7 @@ IMDb Data:
 
 ᴜsᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-❍ /github Matiz_Techz
+❍ /github MatizTechz
 ❍ /git : to get github id information
 """
 
@@ -762,7 +762,7 @@ Example:
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ Matiz_Techz...
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ @Matiz_Techz...
 """
 
 
@@ -796,7 +796,7 @@ Example:
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ Matiz_Techz...
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ @Matiz_Techz...
 """
 
     BASIC_TXT = """
@@ -826,7 +826,7 @@ Example:
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ Matiz_Techz...
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ @Matiz_Techz...
 """
 
     EXPERT_TXT = """
@@ -846,7 +846,7 @@ Example:
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ Matiz_Techz...
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ @Matiz_Techz...
 """
 
     SUPPORT_TXT = """ᴛʜᴇsᴇ ᴀʀᴇ ᴍʏ sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ. ɪғ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ʀᴇᴘᴏʀᴛ ᴛᴏ ᴛʜᴇ ᴀᴅᴍɪɴ
@@ -866,8 +866,8 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @LuciG0D</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/def284d991edabc59600a.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @Mr_Nitin</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/a3c232ff0d623786a7186.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -883,8 +883,8 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @LuciG0D</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/def284d991edabc59600a.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @Mr_Nitin</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/a3c232ff0d623786a7186.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -984,7 +984,7 @@ Example:
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @LuciG0D</code>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @Mr_Nitin</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -992,7 +992,7 @@ Example:
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/def284d991edabc59600a.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/a3c232ff0d623786a7186.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -1006,8 +1006,8 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @LuciG0D</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/def284d991edabc59600a.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @Mr_Nitin</code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/a3c232ff0d623786a7186.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
