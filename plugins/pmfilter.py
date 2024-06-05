@@ -2884,7 +2884,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/MoviesFlicker")
        ],[
             InlineKeyboardButton('• Memes Explorer •', url="t.me/Memes_Explorer"),
-            InlineKeyboardButton('• Coins Network •', url="t.me/Coins_Network")
+            InlineKeyboardButton('• Message US •', url="t.me/MoviesFlicker_Robot")
        ],[
             InlineKeyboardButton('• PB 2.0 •', url="t.me/+qto9V2aFXe05Njk1")
        ],[ 
